@@ -1,0 +1,2 @@
+# weixin-service
+以http方式提供获取access_token和jsapi_ticket方法
